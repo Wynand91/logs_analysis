@@ -27,12 +27,12 @@ _Please note! There is no need to create the SQL views manually as it is automat
     4. a 'log_result.txt' file containing the results will appear in your current working directory
 
 
-##Author
+## Author
 
  - Wynand theron
 
 
-##License
+## License
 
 MIT License
 
