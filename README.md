@@ -82,10 +82,14 @@ CREATE OR REPLACE VIEW responses_and_errors AS
     3. run 'python logs_analysis.py'
     4. a 'log_result.txt' file containing the results will appear in your current working directory
 
-
 ## Author
 
  - Wynand theron
+ 
+ 
+### Sources
+
+FSND-Virtual-Machine configurations and SQL data supplied by: [Udacity](https://www.udacity.com/)
 
 
 ## License
